@@ -1,0 +1,35 @@
+elective_id,elective_name,elective_type,timetable_slot,prerequisites,difficulty,weekly_hours,career_tags,skill_tags,offered
+PE01,Machine Learning,Professional,A,Linear Algebra; Probability & Statistics; Python Programming,Hard,6,AI/ML; Data Analytics,Supervised Learning; Model Evaluation; Python; Feature Engineering,Yes
+PE02,Deep Learning,Professional,B,Machine Learning; Linear Algebra,Hard,7,AI/ML,Neural Networks; PyTorch; Computer Vision; Model Evaluation,Yes
+PE03,Natural Language Processing,Professional,C,Probability & Statistics; Python Programming,Hard,6,AI/ML,NLP; Text Mining; Python; Transformers,Yes
+PE04,Data Mining & Warehousing,Professional,B,Database Management Systems,Moderate,5,Data Analytics; AI/ML,SQL; Data Warehousing; Pattern Mining; ETL,Yes
+PE05,Big Data Analytics,Professional,D,Database Management Systems; Python Programming,Moderate,5,Data Analytics; Cloud Computing,Hadoop; Spark; ETL; Distributed Systems,Yes
+PE06,Data Visualization,Professional,E,Python Programming,Easy,4,Data Analytics,Data Visualization; Dashboarding; Storytelling with Data; Python,Yes
+PE07,Cloud Computing,Professional,C,Operating Systems; Computer Networks,Moderate,5,Cloud Computing; Software Development,AWS; Virtualization; Distributed Systems; Containers,Yes
+PE08,DevOps & CI/CD,Professional,E,Operating Systems,Moderate,5,Cloud Computing; Software Development,Docker; CI/CD; Linux; Containers,Yes
+PE09,Distributed Systems,Professional,A,Operating Systems; Computer Networks,Hard,6,Cloud Computing; Software Development,Distributed Systems; Consensus; Scalability,Yes
+PE10,Full-Stack Web Development,Professional,D,Object Oriented Programming; Database Management Systems,Moderate,6,Software Development,React; REST APIs; SQL; JavaScript,Yes
+PE11,Software Architecture & Design Patterns,Professional,B,Object Oriented Programming,Moderate,4,Software Development,System Design; Design Patterns; UML,Yes
+PE12,Mobile Application Development,Professional,D,Object Oriented Programming,Moderate,5,Software Development,Android; Kotlin; UI Design,Yes
+PE13,Cyber Security & Ethical Hacking,Professional,F,Computer Networks; Operating Systems,Hard,6,Cybersecurity,Penetration Testing; Network Security; Cryptography; Linux,Yes
+PE14,Cryptography & Network Security,Professional,C,Discrete Mathematics; Computer Networks,Hard,5,Cybersecurity,Cryptography; Network Security,Yes
+PE15,Embedded Systems Design,Professional,A,Microprocessors & Microcontrollers; Digital Electronics,Hard,6,Embedded Systems; Core Engineering,Embedded C; RTOS; Microcontrollers; Hardware Debugging,Yes
+PE16,Internet of Things,Professional,D,Microprocessors & Microcontrollers,Moderate,5,Embedded Systems; Cloud Computing,IoT Protocols; Sensors; Embedded C; MQTT,Yes
+PE17,VLSI Design,Professional,B,Digital Electronics,Hard,6,Core Engineering; Embedded Systems,Verilog; Digital Design; Circuit Simulation,Yes
+PE18,Digital Signal Processing,Professional,E,Signals & Systems; Linear Algebra,Hard,5,Core Engineering; Embedded Systems,Signal Processing; MATLAB; Filter Design,Yes
+PE19,Computer Vision,Professional,F,Linear Algebra; Python Programming,Hard,6,AI/ML,Computer Vision; OpenCV; Python; Neural Networks,Yes
+PE20,Reinforcement Learning,Professional,D,Machine Learning; Probability & Statistics,Hard,6,AI/ML,Reinforcement Learning; Python,No
+PE21,Blockchain Technology,Professional,D,Data Structures; Computer Networks,Moderate,4,Software Development; Cybersecurity,Smart Contracts; Cryptography; Solidity,Yes
+OE01,Business Analytics,Open,G,,Easy,3,Data Analytics; Product Management,Excel Modelling; Business Intelligence; Storytelling with Data,Yes
+OE02,Entrepreneurship & Innovation,Open,H,,Easy,3,Product Management,Business Planning; Pitching; Market Research,Yes
+OE03,Optimization Techniques,Open,G,Linear Algebra,Moderate,4,Data Analytics; Core Engineering,Linear Programming; Operations Research,Yes
+OE04,Human-Computer Interaction,Open,H,,Easy,3,Software Development; Product Management,UX Research; Prototyping; UI Design,Yes
+OE05,Technical Writing & Communication,Open,I,,Easy,2,,Technical Writing; Presentation,Yes
+OE06,Financial Engineering,Open,I,Probability & Statistics,Moderate,4,Data Analytics,Financial Modelling; Risk Analysis; Python,Yes
+OE07,Robotics Fundamentals,Open,G,Microprocessors & Microcontrollers,Moderate,5,Embedded Systems; Core Engineering,Robot Kinematics; Sensors; ROS,Yes
+OE08,Green Energy Systems,Open,H,,Easy,3,Core Engineering,Renewable Energy; Power Systems,Yes
+OE09,Quantum Computing Basics,Open,,Linear Algebra,Hard,4,AI/ML,Quantum Circuits; Qiskit,Yes
+OE10,Product Management Essentials,Open,A,,Easy,3,Product Management; Software Development,Product Strategy; Roadmapping; User Stories,Yes
+HS01,Professional Ethics,Humanities,I,,Easy,2,,Ethics; Critical Thinking,Yes
+HS02,Organisational Behaviour,Humanities,H,,Easy,2,Product Management,Leadership; Team Dynamics,Yes
+PE06,Data Visualisation (duplicate row),Professional,E,Python Programming,Easy,4,Data Analytics,Data Visualization,Yes

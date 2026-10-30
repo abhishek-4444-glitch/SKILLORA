@@ -1,0 +1,17 @@
+student_id,student_name,career_goal,cgpa,subjects_cleared,weak_subjects,workload_preference,required_electives
+S001,Aarav Sharma,AI/ML,8.7,Python Programming; Linear Algebra; Probability & Statistics; Data Structures; Database Management Systems; Operating Systems; Object Oriented Programming,Computer Networks,Medium,Professional:2; Open:1
+S002,Diya Nair,Software Development,7.9,Object Oriented Programming; Data Structures; Database Management Systems; Operating Systems; Computer Networks; Python Programming,Discrete Mathematics,Medium,Professional:2; Open:1
+S003,Rohan Gupta,Cloud Computing,7.2,Operating Systems; Computer Networks; Database Management Systems; Python Programming; Object Oriented Programming,Operating Systems,High,Professional:3; Open:1
+S004,Meera Iyer,Data Analytics,9.1,Python Programming; Probability & Statistics; Database Management Systems; Linear Algebra,,Low,Professional:2; Open:1
+S005,Kabir Singh,Embedded Systems,6.4,Digital Electronics; Microprocessors & Microcontrollers; Signals & Systems; Programming in C,Signals & Systems,Medium,Professional:2; Open:1
+S006,Ananya Rao,Cybersecurity,8.1,Computer Networks; Operating Systems; Discrete Mathematics; Data Structures,Discrete Mathematics,High,Professional:2; Open:1
+S007,Vikram Patel,Core Engineering,6.9,Digital Electronics; Signals & Systems; Linear Algebra,Linear Algebra,Low,Professional:2; Open:1
+S008,Ishita Banerjee,AI/ML,7.5,Python Programming,Probability & Statistics,Medium,Professional:2; Open:1
+S009,Arjun Menon,Software Development,5.8,Object Oriented Programming; Data Structures; Database Management Systems,Object Oriented Programming,High,Professional:2; Open:1
+S010,Sneha Kulkarni,Product Management,8.3,Object Oriented Programming; Database Management Systems; Python Programming,,Low,Professional:1; Open:2
+S011,Farhan Ali,Embedded Systems,7.0,Microprocessors & Microcontrollers; Digital Electronics,,Medium,Professional:2; Open:1; Humanities:1
+S012,Kavya Reddy,Embedded Systems,7.8,Digital Electronics; Microprocessors & Microcontrollers,Digital Electronics,High,Professional:3
+S013,Rahul Verma,Software Development,6.6,Object Oriented Programming; Data Structures; Computer Networks,Computer Networks,Medium,Professional:2
+S014,Zara Khan,Data Analytics,,Python Programming; Database Management Systems; Probability & Statistics,Probability & Statistics,,Professional:2; Open:1
+S015,Dev Malhotra,Cloud Computing,9.8x,Operating Systems; Computer Networks,,Medium,
+S016,Priya Menon,AI/ML,8.9,Python Programming; Linear Algebra; Probability & Statistics; Machine Learning; Database Management Systems,,High,Professional:3; Open:1
